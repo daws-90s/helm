@@ -1,5 +1,5 @@
 deployment:
   replicas: 4
-  imageVersion: 1.31.3
+  imageVersion: 1.31.3-trixie
 service:
   type: ClusterIP
