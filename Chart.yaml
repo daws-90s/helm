@@ -1,5 +1,5 @@
 apiVersion: v2
 name: nginx
-version: 0.0.2 # This is Helm Chart version
-description: upgrading to 1.31.3-trixie
-appVersion: 1.31.3-trixie # application version
+version: 0.1.2 # This is Helm Chart version
+description: upgrading to 1.31.3-alpine
+appVersion: 1.31.3-alpine # application version
