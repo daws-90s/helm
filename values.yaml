@@ -1,0 +1,5 @@
+deployment:
+  replicas: 2
+  imageVersion: 1.31.3
+service:
+  type: ClusterIP
